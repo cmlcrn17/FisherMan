@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "1045436143043",
+    "firebase_url": "https://balikci-7c7bc.firebaseio.com",
+    "project_id": "balikci-7c7bc",
+    "storage_bucket": "balikci-7c7bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045436143043:android:9edf5cef71c22914",
+        "android_client_info": {
+          "package_name": "com.cerenerdem.fisherman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045436143043-7j0apekan3j0lbhkm0e3cceh65qo64iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYPJRvkaBf77DieHwtqIBKathNn3J5XRc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-1077976104717606~3050645269"
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Balıkçı</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="ActionBar_AddLocation">Balık Lokasyonu Ekle</string>
+    <string name="ActionBar_Diger">Diğer</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="Uyari_SagliksizKonum">Sağlıklı Konum Alınamadı</string>
+    <string name="Hata_KayitSirasi">Kayıt İşlemlerinde Hata Tespit Edildi.</string>
+    <string name="KonumKaydedildi">Konum Kaydedildi.</string>
+    <string name="BenimEvim">Değirmendere</string>
+    <string name="KullanıcıBurada">Buradayım</string>
+    <string name="Hata">Hata</string>
+    <string name="ListeBos">Liste Boş</string>
+    <string name="BalikSecilmedi">Balık Seçiniz</string>
+    <string name="BalikSecildi">Balık Seçildi</string>
+    <string name="AciklamaGirilmedi">Açıklama Girilmedi</string>
+    <string name="admob_bottom_banner_id">ca-app-pub-1077976104717606~3050645269</string>
+</resources>
