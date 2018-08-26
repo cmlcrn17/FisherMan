@@ -122,8 +122,7 @@ public class MainActivity extends AppCompatActivity {
             cursor.close();
             arrayAdapter.notifyDataSetChanged();
 
-        } catch (
-                Exception e)
+        } catch (Exception e)
 
         {
             if (lst_FisherManLocation.getCount() == 0) {
